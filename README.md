@@ -18,6 +18,15 @@ I am also currently working on a paper reflecting my works on this project. I wo
 
 This project uses the CTU-13 dataset which involves 13 scenarios of lablled network traffic data with normal and botnet traffic. This project uses the scenario 1 to train and test the various models.
 
+<b> Dependencies </b>
+
+This project requires set of the following python modules:
+1. scipy
+2. numpy
+3. theano
+4. scikit-learn
+5. keras
+
 <b> Testing the Model </b>
 
 To test the model, run the script.py file in the Machine-Learning-Based-Botnet-Detection/src using the following commands
